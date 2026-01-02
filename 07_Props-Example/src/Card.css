@@ -1,0 +1,16 @@
+.card {
+    border: 2px solid black;
+    color: red;
+    width: 80%; /* Increased width for better visibility */
+    margin: 20px auto; /* Added margin for spacing */
+    padding: 30px; /* Reduced padding for a more compact look */
+    border-radius: 10px; /* Added rounded corners */
+}
+
+.card img {
+    width: 100%; /* Make image responsive */
+    max-width: 250px; /* Limit max width */
+    margin: 0 auto;
+    display: block;
+    border-radius: 5px; /* Added rounded corners to the image */
+}
